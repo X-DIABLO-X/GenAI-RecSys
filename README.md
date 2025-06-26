@@ -63,6 +63,6 @@
 
 ✅ All resources are peer-reviewed or notable preprints, with code linked when available
 
-📌 Maintained by
+# 📌 Maintained by
 DIABLO – for contributions or additions, feel free to open a PR or contact directly!
 

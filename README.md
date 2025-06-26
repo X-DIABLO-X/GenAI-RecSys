@@ -1,7 +1,7 @@
-🧠 #Awesome-Generative-RecSys by DIABLO
-A curated list of awesome Generative Recommender Systems, focused on recent advances using LLMs, diffusion models, GANs, and more for next-generation RecSys.
+# 🧠 Awesome-Generative-RecSys by DIABLO
+*A curated list of awesome Generative Recommender Systems, focused on recent advances using LLMs, diffusion models, GANs, and more for next-generation RecSys.*
 
-📚 #Research Papers & Code
+# 📚 Research Papers & Code
 |    | **Title**                                                                                                         | PublishedAt | Paper                                                                                                  | Code                                                                    |
 |----|-------------------------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
 | 1  | GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation                 | Preprint'23 | [arXiv](https://arxiv.org/abs/2304.03879)                                                              |                                                                         |
@@ -56,7 +56,7 @@ A curated list of awesome Generative Recommender Systems, focused on recent adva
 | 50 | COM: a Generative Model for Group Recommendation                                                                  | KDD'14      | [dl.acm](https://dl.acm.org/doi/abs/10.1145/2623330.2623616)                                           |                                                                         |
 | 51 | Exploring Social Influence for Recommendation - A Generative Model Approach                                       | SIGIR'12    | [arXiv](https://arxiv.org/abs/1109.0758)                                                               |                                                                         |
 
-🌟 Highlights
+# 🌟 Highlights
 ✅ Covers LLM-based recommenders, GANs, VAEs, diffusion models, RL-based generation, and privacy-aware generation
 
 ✅ Ideal for use cases in ads, cold start, multimodal inputs, and slate generation

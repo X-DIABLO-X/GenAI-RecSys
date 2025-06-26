@@ -1,7 +1,7 @@
-#🧠 Awesome-Generative-RecSys by DIABLO
+🧠 #Awesome-Generative-RecSys by DIABLO
 A curated list of awesome Generative Recommender Systems, focused on recent advances using LLMs, diffusion models, GANs, and more for next-generation RecSys.
 
-#📚 Research Papers & Code
+📚 #Research Papers & Code
 |    | **Title**                                                                                                         | PublishedAt | Paper                                                                                                  | Code                                                                    |
 |----|-------------------------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
 | 1  | GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation                 | Preprint'23 | [arXiv](https://arxiv.org/abs/2304.03879)                                                              |                                                                         |
